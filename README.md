@@ -1,7 +1,7 @@
 # javohirsultanov
 
 ## About me
-### My name is Javohir
+My name is Javohir
 
 ## Education
-### Graduated MUNIM in 2023
+Graduated MUNIM in 2023
